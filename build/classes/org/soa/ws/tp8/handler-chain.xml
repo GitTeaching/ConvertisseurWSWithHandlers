@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<handler-chains xmlns="http://java.sun.com/xml/ns/javaee">
+	<handler-chain>
+		<handler>
+			<handler-name>IPAddressValidatorHandler</handler-name>
+			<handler-class>org.soa.ws.tp8.IPAddressValidatorHandler</handler-class>
+		</handler>
+	</handler-chain>
+</handler-chains>
